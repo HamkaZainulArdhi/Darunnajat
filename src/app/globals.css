@@ -145,7 +145,6 @@
 
 body {
   @apply bg-background text-on-background font-body-md selection:bg-antique-gold/30;
- border: 2px solid red;
 }
 
 .garis {

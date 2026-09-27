@@ -13,7 +13,7 @@ export default function HeroSection() {
       <div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-black/20 z-10" />
 
       <div className="relative z-20 max-w-container-max mx-auto px-margin-desktop w-full h-full flex flex-col justify-center">
-        <div className="max-w-2xl animate-fade-in text-white mt-20">
+        <div className="max-w-2xl  animate-fade-in text-white mt-20 -ml-5 md:ml-0">
           <div className="inline-block font-headline-md bg-white/10 backdrop-blur-sm px-4 py-2 rounded-lg text-[16px] tracking-wider mb-6 italic">
             اللهم صل على سيدنا محمد وعلى آل سيدنا محمد
           </div>
